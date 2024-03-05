@@ -99,6 +99,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gopalkeshri31/gopalkeshri31/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gopalkeshri31/output/snake.svg" alt="Snake animation" />
 
 ###
